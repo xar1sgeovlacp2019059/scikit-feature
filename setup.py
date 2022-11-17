@@ -10,9 +10,9 @@ AUTHOR = "Jundong Li, Kewei Cheng, Suhang Wang"
 
 AUTHOR_EMAIL = "jundong.li@asu.edu, kcheng18@asu.edu, suhang.wang@asu.edu"
 
-URL = "https://github.com/jundongl/scikit-feature"
+URL = "https://github.com/xar1sgeovlacp2019059/scikit-feature"
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 
 setup(
